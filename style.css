@@ -1,12 +1,45 @@
-.container{
-
+.aboutSection {
+  height: 710px;
 }
-.main-bio{
 
+.navbar {
+  margin-top: 50px;
+  margin-bottom: 55px;
+  background-color: #00adb5;
 }
-.contact-info{
 
+.nameIntro {
+  font-size: 70px;
 }
-.bio-image{
 
+.occintro {
+  font-weight: normal;
 }
+
+.introw {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.socialIcon {
+ color: white;
+ margin: 20px;
+}
+
+.icons {
+  height: 190px;
+}
+
+.introCon {
+  background-color: #00adb5;
+  padding: 3% 10% 6%;
+}
+
+.progress {
+  margin: 10px 20px;
+}
+.aboutHead {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
